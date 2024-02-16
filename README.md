@@ -39,7 +39,7 @@ It is worth mentionaing that, like suggestion tab 1, this phenomenon should happ
 ```
 python visualizer.py
 ```
-<img src="https://github.com/MajidNoorani/Trade-Ca-USA-Visualization/tree/master/assets/app-view.gif" width="800" height="450" />
+<img src="https://github.com/MajidNoorani/Trade-Ca-USA-Visualization/blob/master/assets/app-view.gif" width="800" height="450" />
 
 ## codes:
 ### data cleaning and process
